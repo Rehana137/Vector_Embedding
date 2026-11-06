@@ -1,0 +1,6 @@
+Natural Language Processing is a field of
+Artificial Intelligence that helps computers
+understand and process human language.
+
+It is used in chatbots, language translation,
+sentiment analysis and text summarization.

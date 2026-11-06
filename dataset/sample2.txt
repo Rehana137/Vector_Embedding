@@ -1,0 +1,7 @@
+Machine Learning is a subset of Artificial
+Intelligence. It allows computers to learn
+from data and improve their performance
+without being explicitly programmed.
+
+Machine Learning is used for prediction,
+classification and recommendation systems.

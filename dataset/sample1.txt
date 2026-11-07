@@ -1,0 +1,7 @@
+Artificial Intelligence is a branch of
+computer science that focuses on creating
+machines capable of performing tasks that
+normally require human intelligence.
+
+AI is used in healthcare, education,
+transportation and business.
